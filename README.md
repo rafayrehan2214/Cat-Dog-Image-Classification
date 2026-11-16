@@ -1,14 +1,8 @@
 # Cat-Dog-Image-Classification
-at and Dog Image Classification
-
 Project Overview
-
 This project is based on Machine Learning and Image Classification. It identifies whether an uploaded image belongs to a Cat or a Dog.
-
 The model was created and trained using Google Teachable Machine.
-
 Students
-
 Abdul Rafay Rehan
 
 Noor Fatima
